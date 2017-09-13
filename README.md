@@ -1,5 +1,5 @@
 # 2017-09-14 課程
-- JavaScritp 如何存取 JSON 資料
+- JavaScript 如何存取 JSON 資料
 - 物件導向觀念討論
 - JavaScript 物件導向語法
 - this 到底是什麼?
